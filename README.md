@@ -1,115 +1,95 @@
-<!-- ===================== BANNER ===================== -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Evandro%20Sinigalia%20Eloy&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="./BANNER OFICIAL.png" width="100%" />
 </p>
 
-<!-- ===================== APRESENTAÇÃO ===================== -->
-<h2 align="center"> Olá! Eu sou o Evandro</h2>
-
+<!-- Título principal -->
 <p align="center">
-  💻 Desenvolvedor em formação <br>
-  🎓 Front-end & Back-end <br>
-  🇧🇷 Brasil
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1&pause=2000&color=61DAFB&center=true&vCenter=true&repeat=false&width=1000&lines=Olá!+Eu+sou+Evandro+Sinigalia+Eloy" />
 </p>
 
+<!-- Subtítulo -->
 <p align="center">
-  <i>"Construindo interfaces bonitas e sistemas sólidos."</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1500&color=9FA8DA&center=true&vCenter=true&width=900&repeat=true&lines=Desenvolvedor+Front-end+em+formação;Interfaces+modernas+e+responsivas;JavaScript+React+Next+Vue" />
 </p>
+
+Sou **desenvolvedor Front-End em formação**, apaixonado por criar **interfaces modernas, funcionais e bem estruturadas**.  
+Busco evoluir constantemente unindo **design**, **boas práticas** e **performance** no desenvolvimento web.
 
 ---
 
-<!-- ===================== STACK EM FORMAÇÃO ===================== -->
-<h2 align="center">🚀 Stack em formação</h2>
+<!-- Stack em formação -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=1&pause=2000&color=61DAFB&center=true&vCenter=true&repeat=false&width=500&lines=🚀+Stack+em+formação" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white"/>
+</p>
+
+---
+
+<!-- Conhecimentos -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=1&pause=2000&color=61DAFB&center=true&vCenter=true&repeat=false&width=650&lines=🧠+Conhecimentos+%28Experiência+prática%29" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Webpack-1C78C0?style=for-the-badge&logo=webpack"/>
-  <img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
----
-<!-- ===================== CONHECIMENTOS ===================== -->
-<h2 align="center"> Conhecimentos (Experiência prática)</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-<p align="center">
-  <i>Experiência com desenvolvimento front-end, back-end e integração com banco de dados.</i>
-</p>
-
-
-<!-- ===================== SOBRE ===================== -->
-<h2>👨‍💻 Sobre mim</h2>
-
-- 🔹 Em formação como **Front-end Developer**
-- 🔹 Estudando frameworks modernos (**React, Next.js e Vue.js**)
-- 🔹 Experiência prática com **back-end em Java e Node.js**
-- 🔹 Interesse em **performance, usabilidade e código limpo**
-- 🔹 Evolução contínua e aprendizado constante
-
----
-
-<!-- ===================== PROJETOS ===================== -->
-<h2> Projetos</h2>
-
-| Projeto | Descrição | Stack |
-|------|---------|-------|
-| Sistema Full-Stack | CRUD com autenticação e painel admin | Node.js, MySQL |
-| APIs REST | Serviços back-end | Java, Spring Boot |
-| Sites Front-end | Layouts modernos e responsivos | HTML, CSS, JS |
-
----
-
-<!-- ===================== STATS ===================== -->
-<h2> GitHub Stats</h2>
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-<!-- ===================== CONTATO ===================== -->
-<h2> Contato</h2>
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=1&pause=2000&color=61DAFB&center=true&vCenter=true&repeat=false&width=500&lines=📊+GitHub+Stats" />
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/evandro-sinigalia-eloy-9a3b982b6/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SEU_USUARIO&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
 
-<!-- ===================== FOOTER ===================== -->
+<!-- Snake -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake"
+      src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1500&color=9FA8DA&center=true&vCenter=true&width=700&repeat=true&lines=Obrigado+por+visitar+meu+perfil!;Sempre+em+evolução+no+desenvolvimento+web+🚀" />
 </p>
