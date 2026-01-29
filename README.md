@@ -4,7 +4,7 @@
 </p>
 
 <!-- ===================== APRESENTAÇÃO ===================== -->
-<h2 align="center">👋 Olá! Eu sou o Evandro</h2>
+<h2 align="center"> Olá! Eu sou o Evandro</h2>
 
 <p align="center">
   💻 Desenvolvedor em formação <br>
@@ -44,7 +44,7 @@
 
 ---
 <!-- ===================== CONHECIMENTOS ===================== -->
-<h2 align="center">🧠 Conhecimentos (Experiência prática)</h2>
+<h2 align="center"> Conhecimentos (Experiência prática)</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
